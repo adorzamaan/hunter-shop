@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.spiner {
+    margin: 150px 0px;
+}
+
+#search-container input {
+    outline: 0 !important;
+}
+
+@media(max-width:575px) {
+    header .top_title {
+        font-size: 17px;
+    }
+}
